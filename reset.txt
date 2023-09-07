@@ -3,3 +3,7 @@ Discord doesn't have a way to reset the bot's token via the API so it seems that
 if your bot is here, please make sure that you are more careful with it: do not put it in a public Glitch project or git repo!!
 
 this repo exists only to reset leaked tokens. Discord should auto-reset all tokens committed to GitHub
+
+Contact me via : jason_op69 in Discord
+
+MTEyOTg2Mjc5NTExMDkxMjExMg.GySIxl.U3usKIqxqdxV-nFq6jvTWpYJJ5euv46v5aFcPM first leaked token, Thanks to me your servers wont be raided
